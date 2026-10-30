@@ -1,15 +1,8 @@
 {
-  "name": "ThorHub Ecosystem",
+  "name": "ThorHub iPhone Edition",
   "short_name": "ThorHub",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#040406",
-  "theme_color": "#ff2a3b",
-  "icons": [
-    {
-      "src": "icon.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    }
-  ]
+  "theme_color": "#ff2a3b"
 }
